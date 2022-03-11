@@ -22,6 +22,11 @@ allowedUrls = [
   {
     link: "https://in.pinterest.com/",
   },
+  
+  {
+    link: "www.youtube.com",
+  },
+  
 ];
 
 this.allowedUrls.forEach((element) => {
